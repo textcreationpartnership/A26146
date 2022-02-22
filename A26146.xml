@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chief Baron Atkyns's speech to Sir William Ashhurst, Lord Mayor Elect of the city of London at the time of their being sworn in Their Majesties Court of Exchequer, Monday the thirtieth of October, 1693.</title>
+            <author>Atkyns, Robert, Sir, 1621-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26146</idno>
+            <idno type="STC">Wing A4143</idno>
+            <idno type="STC">ESTC R34194</idno>
+            <idno type="EEBO-CITATION">13961678</idno>
+            <idno type="OCLC">ocm 13961678</idno>
+            <idno type="VID">102073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1560:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chief Baron Atkyns's speech to Sir William Ashhurst, Lord Mayor Elect of the city of London at the time of their being sworn in Their Majesties Court of Exchequer, Monday the thirtieth of October, 1693.</title>
+                  <author>Atkyns, Robert, Sir, 1621-1709.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed for M. Gunn ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:102073:1"/>
+            <pb n="1" facs="tcp:102073:1" rendition="simple:additions"/>
+            <head>The Lord Chief Baron <hi>Atkyns</hi>'s Speech to Sir <hi>William Aſh<g ref="char:EOLhyphen"/>hurſt,</hi> Lord Mayor Elect of the City of <hi>London,</hi> at the time of his being Sworn in Their Majeſties Court of <hi>Ex<g ref="char:EOLhyphen"/>chequer, Monday</hi> the Thirtieth of <hi>October,</hi> 1693.</head>
+            <opener>
+               <salute>
+                  <hi>My <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rd Elect,</hi>
+               </salute>
+            </opener>
+            <p>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Duty of that place wherein as yet I ſerve Their Maje<g ref="char:EOLhyphen"/>ſties, doth oblige me to ſay ſomething to your Lordſhip up<g ref="char:EOLhyphen"/>on this great and ſolemn occaſion. I thought I might have been excuſed by reaſon of great indiſpoſitions of body that are preſent upon me. But ſince it is my Duty, By the Grace of God I will endeavour to diſcharge it with all faithfulneſs and freedom. And I am the more encouraged to undertake it, becauſe of the great Merit of the Excellent Perſons that are before me, to whom I muſt more particularly apply my ſelf in what I have to ſay.</p>
+            <p>I ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll raiſe my Diſcourſe from Two Heads, and they are very vulgar, and they are very ſhort, each of them conſiſting but of two words in <hi>Latin, Foris Arma, Conſilium Domi:</hi> Wars abroad, but Counſel at home; The firſt tells us of our danger, the latter teaches us our duty.</p>
+            <p>
+               <hi>Foris Arma:</hi> It pleaſeth Almighty God, that after ſome years gone over our heads ſince the laſt Revolution, and after ſo much Blood ſpilt, and ſo much Treaſure ſpent, we yet continue in a State of War, and that with a Prince who is very powerful, is highly enraged againſt us, and is very proſ<g ref="char:EOLhyphen"/>perous. His power at Land appears in this, that he has raiſed three great Armies, and maintained them, and with his ſingle Force is able to Cope with almoſt all the United Forces of <hi>Europe.</hi> His Power at Sea appears in this, that he can encounter with the united ſtrength of three great Nations, the <hi>Engliſh,</hi> the <hi>Dutch,</hi> and the <hi>Spaniards;</hi> each of which (ſingle) not long ago, had been too hard for him.</p>
+            <p>I ſhall tell you in a few words, what the Deſign of this Great Enemy of ours is; not that I mean to tell you news, for I ſuppoſe there are none here preſent but know it; but I am afraid, we are
+<pb n="2" facs="tcp:102073:2" rendition="simple:additions"/> not ſo ſenſible of it as we ſhould be, we do not ſo well conſider it as we ought. But however, I muſt mention it, becauſe it indu<g ref="char:EOLhyphen"/>ceth much of what I have to ſay.</p>
+            <p>The Deſign of this Great Prince, the King of <hi>France,</hi> is this: Firſt to make himſelf Univerſal Monarch of the <hi>Weſt;</hi> and if that were all, it were not ſo bad: Fot it doth not ſo much con<g ref="char:EOLhyphen"/>cern the world who Governs, as how they Govern. But in the next place, it is to eſtabliſh an Abſolute Arbitrary Power every where: He would rule us with a Rod of Iron: His will and plea<g ref="char:EOLhyphen"/>ſure muſt be the only Law. And in order to this, he doth endeavor to make all other Princes &amp; Monarchs ſeek to be Abſolute &amp; Ar<g ref="char:EOLhyphen"/>bitrary too, in their Dominions, that he alone may have the power of Ruling them, and that they may have their dependance alone upon him: And therein he would have the Prerogative that be<g ref="char:EOLhyphen"/>longs to Almighty God, to be King of Kings, and Lord of Lords: He would be the great Proprietary Owner and Diſpoſer of all E<g ref="char:EOLhyphen"/>ſtates and Poſſeſſions at his will and pleaſure; to lay what Taxes and Burthens upon them he pleaſeth; they ſhall toil and moil, they ſhall plow and ſow, and he ſhall reap and divide all among his Baſhaws and Janizaries, and Men of War. He would deſtroy the Proteſtants, and root out their Religion, and ſuffer no Religion to be profeſſed any where, but the Popiſh; and that not out of Zeal or Love to Religion, but he would make it a State-Engine, that pretended Religion being moſt ſuitable to ſerve his Ambi<g ref="char:EOLhyphen"/>tious Deſigns.</p>
+            <p>Theſe are his Deſigns, and I ſhall prove it to you by ſome moſt manifeſt undeniable Inſtances. And I have them already collected to my hand by an Excellent Author, and his name is Dr. <hi>King</hi> (late Dean of St. <hi>Patricks</hi> in <hi>Ireland,</hi> but who ſince that, was made Biſhop of <hi>London-D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rry</hi>) in a Thankſgiving-Sermon of his preach<g ref="char:EOLhyphen"/>ed at St. <hi>Patrick's</hi> Church in <hi>Dublin,</hi> upon the reducing of that Kingdom, before the Lords Juſtices of <hi>Ireland.</hi> It is in print, and any one may have recourſe to it.</p>
+            <p>In the firſt place, He does ſtate this to be the Deſign of the <hi>French</hi> King, as I have ſtated it; and then proceeds to the proof of it. And the firſt thing is a Paper found in the Cloſet of the late Lord <hi>Tyr<g ref="char:EOLhyphen"/>connell,</hi> then Colonel <hi>Talbot,</hi> where the Deſign is laid open, it is da<g ref="char:EOLhyphen"/>ted
+<pb n="3" facs="tcp:102073:2"/> in <hi>July</hi> 1671. (now two and twenty years ago) There is the firſt Scheme of the Deſign laid between the <hi>French</hi> King and our late King, King <hi>Charles</hi> the Second; and it is a Scheme of ſuch a Deſign as I have told you of; and then it propoſeth the means for effecting of it.</p>
+            <p>Firſt, To procure Popery to be eſtabliſhed in <hi>England</hi> by a Toler<g ref="char:EOLhyphen"/>ation; next, To ſupreſs the Inſolency (as that Paper calls it) of the <hi>Dutch:</hi> And the laſt is, To have a ſtrict Alliance betwen the <hi>French</hi> King and the King of <hi>England.</hi> And by this means (as that Paper concludes) would the King of <hi>Great Britain</hi> be abſolute Monarch over his own Subjects.</p>
+            <p>Another Proof he produceth, is a Memorial delivered in to the States of <hi>Holland</hi> in the year 1688. and that was by Monſieur <hi>d'A<g ref="char:EOLhyphen"/>vaux,</hi> the <hi>French</hi> Ambaſſador, then at the <hi>Hague<g ref="char:punc">▪</g>
+               </hi> In this Memorial all this Deſign is ſtated bold-faced. There he tells the States, There was a Treaty between our then King, formerly the D. of <hi>York,</hi> and his Maſter the <hi>French</hi> King in the year 1671 and that was to this purpoſe; To bring about ſuch a Deſign as I have ſpoken of: by which means (as that Paper hath it) the <hi>French</hi> King would be Univerſal Monarch, and the King of <hi>England</hi> Abſolute over his own Subjects; and by this means there would be a Re-eſtabliſh<g ref="char:EOLhyphen"/>ment of Popery in theſe three Kingdoms. That is his Second Proof. The Third is a Letter written by <hi>Moloony</hi> the Popiſh Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Killalo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Ireland,</hi> and directed to another, wherin he ſtates this to be the Deſign of the <hi>French</hi> King, that I have menti<g ref="char:EOLhyphen"/>oned, and the means the ſame to effect it. In which Paper, ſaith my Reverend Author, there is great anger expreſſed, that ſome Trimmers about the late King do diſown any ſuch Treaty with the <hi>French</hi> King.</p>
+            <p>So that here are clear Proofs, that this was the Project between the two Crowns of <hi>England</hi> and <hi>France,</hi> of a very long ſtanding. They are Proofs in Writing, and under the Hands of thoſe who were eminently inſtrumental in the carrying on of the Deſign. But had I time, and were it ſo pertinent (eſpecially here) I could make that Deſign between <hi>England</hi> and <hi>France</hi> elder than 1671. And particularly, I need but mention the buſineſs of <hi>Rochel.</hi> You may ſee how that Atchievement of that King (this <hi>French</hi> King's Fa<g ref="char:EOLhyphen"/>ther)
+<pb n="4" facs="tcp:102073:3"/> by the management of this publick Miniſter Cardinal <hi>Rich<g ref="char:EOLhyphen"/>lieu,</hi> is celebrated with wonderful Encomiums by him that was then Secretary of State. They date their Freedom (as they call it) and their Power over the Proteſtants, from that acquiſition, and acknowledge that it came by the help of <hi>England;</hi> which is a great ſhame to be ſaid. The poor Proteſtants in <hi>France,</hi> particular<g ref="char:EOLhyphen"/>ly in that City, prayed Aid from hence, and they had ſome Ships, ſix Merchant Ships ſent them; they expected their deliverance by this means; but when they came, inſtead of helping them, their Men and Proviſions were delivered over into the Power of the <hi>French</hi> King; which when they ſaw, they preſently threw open the Gates, and ſubmitted to mercy. And ever ſince that; the <hi>French</hi> Kings have been abſolute over their own Subjects.</p>
+            <p>But I muſt not enlarge much more upon that Head, elſe I could tell of ſome great Deſigns of the ſame kind at the ſame time here at home. The ſtriking out of that part of the Ancient Oath in King <hi>Charles</hi> the Firſt's time, at his Coronation by Archbiſhop <hi>Laud</hi> (that the King ſhould conſent to ſuch Laws as the People ſhould chuſe) and inſtead of that another very unuſual one inſerted, <hi>Sa<g ref="char:EOLhyphen"/>ving the King's Prerogative-Royal.</hi> I do not deny but the King of <hi>England</hi> has a large Prerogative, as much as a good King can de<g ref="char:EOLhyphen"/>ſire: He has a Prerogative to do good; He is only reſtrained from doing hurt: For our Law ſays, <hi>The King can do no wrong.</hi> He has we ſay a Prerogative that is part, and an eminent part of the Law; but it is not above the Law.</p>
+            <p>And I could tell you of ſomething more of that kind done ſince in the time of the late King <hi>James,</hi> at the time of his Coronation, there was much more ſtruck out of the Coronation-Oath, which might be well worth the enquiring how it came about. But I let that paſs; I have made out to you what our great Enemy's Deſign is; I will now tell you by what means he has endeavour<g ref="char:EOLhyphen"/>ed to effect it.</p>
+            <p>He doth firſt confederate with the <hi>Great Turk,</hi> that profeſſed Enemy of the Chriſtian Religion; he has brought him into <hi>Europe</hi> to deſtroy Chriſtianity: And as this Enemy of ours, the <hi>French</hi> King, would deſtroy Proteſtants, ſo would that Confederate of his deſtroy and root out all Chriſtianity; and yet muſt this great Prince
+<pb n="5" facs="tcp:102073:3"/> the <hi>French</hi> King (forſooth) be called the moſt Chriſtian King.</p>
+            <p>He doth break through all the Bonds of Religion, Morality, and common Juſtice; he hath openly and publickly profeſſed he would not be a Slave to his word and Oath. He values not all the Edicts, under which the poor Proteſtants of <hi>France</hi> had their Protection. He did take a Solemn Oath, and he took it upon the Sacrament, that he would renounce all Pretenſions of Title to the <hi>Spaniſh Netherlands;</hi> and yet you ſee he is gaining the Poſſeſſion of it through a Sea of Blood. He doth (as we have great reaſon to ſuſpect) by his Agents and Miniſters, corrupt with Bribes and Penſions (or at leſt endeavours to do it) thoſe that are Agents, and employed under his Oppoſers, to get Towns and Fortreſſes into his hands, thoſe Unmanly, Ungenerous, Unprincely Means. And we have reaſon to ſuſpect him to have had an hand in deſigns of aſſaſſi<g ref="char:EOLhyphen"/>nating thoſe that are his Enemies, and to have joined with Dealers in Poiſonings. This, I ſay, we may very juſtly ſuſpect, though we cannot offer undeniable Proofs of it. But after all, I ſhould inſtance in that baſe corrupt way of ſending <hi>Midianitiſh</hi> women, according to the Counſel of <hi>Balaam,</hi> to lull Princes aſleep; and dive into their Counſesl and betray them to Death.</p>
+            <p>But beſides, There is one piece of Policy of his, wherein he out<g ref="char:EOLhyphen"/>doeth all other Princes whatſoever; and that is the great thing of maintaining and managing Intelligence. He can tell when your Merchant-Ships ſet out, and by what time they ſhall return. Nay, perhaps, he does take upon him to know by the help of ſome Con<g ref="char:EOLhyphen"/>federacy with him that is Prince of the Power of the Air, that the Wind ſhall not ſerve in ſuch or ſuch a Corner, till ſuch a time. He knoweth when our Royal Navy is to be divided, and when it is united.</p>
+            <p>And ſhall I gheſs how he comes to have ſuch Intelligence? that were well worth the hearing; I would but gheſs at it; and I would in my gheſſes forbear ſaying any thing that is diſhonorable to any among our ſelves. We all know the Scripture tells us, That the good Angels are Miniſters of God for good to the Elect. It is the comfort of all good men that they are ſo. It is ſaid, <hi>He will give his angels charge over thee to preſerve thee in thy way;</hi> and, I hope, we are every one of us in our way. But we have reaſon to believe,
+<pb n="6" facs="tcp:102073:4"/> that the wicked Angels are very inſtrumental in carrying on ſuch Deſigns as this great Man hath undertaken.</p>
+            <p>It is a vulgar Error that hath obtained among ſome of us, That theſe Wicked Spirits are now confined under Chains of Darkneſs in the place of Torment. I remember that Expreſſion of ſome of them to our Saviour, <hi>Art thou come to torment us before the time?</hi> It was not then the time of their being tormented. It is rather to be believed, that they are wandring about in the Air, and there fleeting to and fro, driving on ſuch Wicked Purpoſes as this our Enemy is engaged in.</p>
+            <p>We know Grave and Serious Hiſtorians give us Inſtances of Correſpondences held by both Good and Bad Spirits here; the Wicked by God's Permiſſion, the Good by his command, and par<g ref="char:EOLhyphen"/>ticular good Providence.</p>
+            <p>So the Death of <hi>Julian</hi> the Apoſtate Heathen Emperor, who was killed in his Wars in <hi>Perſia,</hi> was known in the very moment of it at the City of <hi>Rome,</hi> at a great diſtance from the place of Battel, to the no little Joy of the Chriſtians. <hi>And</hi> this I ſupoſe was by the Miniſtry of a good Angel.</p>
+            <p>We have Inſtances of another nature, of what has been done by Evil Angels. In the Inſtant of our Saviour's Paſſion, if we may believe credible Hiſtorians, it was known at a vaſt diſtance from <hi>Jeruſalem,</hi> at Sea among ſome who were then in a Voyage. They heard a Voice in the Air, crying out of the Death of the great God <hi>Pan.</hi> After which followed great Howlings and Screechings; whence we may ſuppoſe by the Expreſſion, that this was by ſome wicked Spirits that were hovering then in the Air, and did com<g ref="char:EOLhyphen"/>municate this piece of Intelligence.</p>
+            <p>I ſhall ſay no more on this Subject; but before I go off from this Head of <hi>Foris Arma,</hi> I would obſerve one word that may afford Your Lordſhip and us ſome comfort, or at leaſt ſome Mitigation of what may elſe be afflictive upon this account. We have <hi>Arma</hi> in the Caſe, but they are <hi>Foris;</hi> the War is Foreign. We have cauſe to bleſs God it is not yet in our own Countrey, We are not ſheathing one anothers Swords in the Bowels of one another, as ſome of us know it heretofore hath been. It is abroad, we know not how ſoon it may come home to our own doors. But it plea<g ref="char:EOLhyphen"/>ſeth
+<pb n="7" facs="tcp:102073:4"/> God of his great mercy, that our Nation wherein his Provi<g ref="char:EOLhyphen"/>dence hath placed us, in an Iſland which lies not ſo open to the In<g ref="char:EOLhyphen"/>curſions and Invaſions of a Ravenous Enemy, as the continent doth. What a deſperate condition had ours been, if it had not been for this our ſituation, long e're this. Conſider what a ſad con<g ref="char:EOLhyphen"/>dition thoſe poor creatures are in, who live in the Seat of War; themſelves, their Wives and Children, all Slaves to the Conque<g ref="char:EOLhyphen"/>ror's Sword, daily under Oppreſſions, Rapines and Cruelties; one day under one Power, another day under the oppoſite Power. This is their Condition; Bleſſed be God it is not yet ours.</p>
+            <p>I ſhall ſay no more upon this Head, but reſort to the other Head that I mention'd at firſt, <hi>Conſilium Domi.</hi> And it is a mercy from God, that we have an opportunity yet left us for Counſel, a Winter before us to conſult in; and wherein, tho we do not doubt but our great Enemy will be very active, yet he cannot make ſuch a vi<g ref="char:EOLhyphen"/>gorous progreſs in his deſigns, as he may at another time of the year. We have yet time to conſider, and confer together.</p>
+            <p>And it is the Happineſs and Bleſſing of Almighty God, that we have the ſo near proſpect of the Great Aſſembly of Parliament, that will be <hi>Conſilium Domi</hi> indeed. If there be any miſcarriages, any ill Intelligencers, any inbred Traytors and Enemies within our ſelves, they will, we hope, take care about them. The Houſe of Commons, we know, is the Grand Inqueſt of the Nation. It is one of their great Offices and Duties to make Enquiry after, and proſecute ſuch Offences; and we doubt not they will do it.</p>
+            <p>It is not lightly and groundleſsly to be ſuſpected, that thoſe who lie in the boſoms of Princes ſhould betray them. But yet I will tell you, that no Prince hath reaſon to be ſecure in that point. I can<g ref="char:EOLhyphen"/>not read that Paſſage of the Royal Pſalmiſt without a great deal of Compaſſion of the Condition of Princes in this reſpect. <hi>David</hi> was an Holy Man, beloved of God, of great Courage, Parts, and Piety, yet conſider what he makes his own Caſe to be. My Fa<g ref="char:EOLhyphen"/>miliar Friend, he that eat of my bread, hath dealt treacherouſly with me. But he deſcribes him further than that; We took Sweet Counſel together: So that it ſhould ſeem he was a Privy Coun<g ref="char:EOLhyphen"/>ſellor, as well as a Familiar Friend. Nay, yet further, We went to the Houſe of God together: So that he was of <hi>David's</hi> Religion;
+<pb n="8" facs="tcp:102073:5"/> he was one that joyned in the ſame worſhip with him; he was no Diſſenter. Nay, he was one that profeſſed great Love to the Houſe of God; poſſibly he might be a grat Champion for the Church, and the Head of the Party. Yet ſuch an one <hi>David</hi> de<g ref="char:EOLhyphen"/>ſcribes him to be, who had betray'd him.</p>
+            <p>We have beſides this, (which brings the matter home to what we have now before us) great need to take care to chuſe Excellent Perſons into Offices of Magiſtracy, eſpecially for this great City, upon whoſe good depend many things that I ſhall tell you of by and by, and on which depends ſo much the good of the Nation.</p>
+            <p>And, my Lord, here we have cauſe to rejoyce that that Great and Wiſe Body have made ſuch a Choice for their prime Magiſtrate as your Lordſhip, one every way ſo fitted and qualified for that great Office. My Lord, I will tell you what comfort I hope for from it, and I make no doubt, many others that are here do the ſame; That hereby we have a Token for good in the Inclinations of the Citi<g ref="char:EOLhyphen"/>zens, we feel their Pulſe, we know what their temper is, and we rejoyce in it; it is ſpoken in their Choice of you. They ap<g ref="char:EOLhyphen"/>pear to be Lovers of their Country, lovers of their Religion, lo<g ref="char:EOLhyphen"/>vers of the true Engliſh Intereſt, and well inclined to ſet the world at liberty, as to their Civil and Religious Rights.</p>
+            <p>My Lord, I have a further Comfort in this matter; the Election of Officers is a deliberate Act, it is the Fruit of Counſel, (which is the Head we are now diſcourſing of) and the Reſult of wiſdom. But, My Lord, we may look higher, even in this Action of the Citizens, there is, as in all, great human actions the <hi>Primus Moter,</hi> to be conſidered, the Mighty God that governs in the Hearts of the People, He hath put it into their Hearts to fix upon you. What do we gather hence? <hi>Vox Populi eſt vox Dei;</hi> Almighty God hath choſen you.</p>
+            <p>It is a mighty Curſe as we read in the Book of God, to have a wicked Ruler ſet over a people: On the other hand, it is a great comfort &amp; happineſs to ſee a good man choſen to bear Rule among us. Almighty God hath given us in this an Earneſt and a Pledge that he will not yet leave and forſake us, and I raiſe to my ſelf a good ground of great Comfort from it.</p>
+            <p>My Lord, in the third Century, after the time of our Saviour,
+<pb n="9" facs="tcp:102073:5"/> there was one <hi>Antenor</hi> the eighteenth or nineteenth Biſhop of <hi>Rome</hi> died, and the See became vacant, and the Chriſtians in a great Body met together to chuſe a Succeſſor, and being in the Field to<g ref="char:EOLhyphen"/>gether, a great many Names were toſſed to and fro of Perſons that might be fit to be choſen. But there was in the Crowd one that was known to a very few of that Multitude, he was among the <hi>Ignota Capita,</hi> one <hi>Fabianus,</hi> who was a plain Country Perſon, very obſcure, but a pious meek Man, who little thought of, or ſought the Biſhoprick. As they were toſſing about ſeveral Names, at laſt, in the open view of the Aſſembly there was a Dove lighted upon the Head of <hi>Falianus,</hi> which when the People ſaw, they preſent<g ref="char:EOLhyphen"/>ly with one Voice choſe him to be Biſhop. You have the Rela<g ref="char:EOLhyphen"/>tion in <hi>Euſebius,</hi> an Eccleſiaſtical' writer of great Note and Credit.</p>
+            <p>A Dove lighted on his head! an excellent Emblem for a Biſhop, who ought to be of a meek &amp; Dove-like temper and diſpoſition: <hi>Amari non timeri debent Epiſcopi.</hi> It was the Bleſſed Spirit of God in that ſimilitude which lighted upon the Head of our Saviour, to give Teſtimony to him as the Son of God at his Baptiſm. And it was a Dove that brought the Olive-branch into the Ark. It is an excellent Emblem of a Magiſtrate, who ought to be like a Dove without Gall.</p>
+            <p>My Lord, indeed there was no Dove lighted upon your Head at your Election, nor was there need of any; for Miracles were never done in vain: it had been a Miracle if you had not been choſen. Your every way being ſo fit and qualified for this Truſt and Com<g ref="char:EOLhyphen"/>mand, did beſpeak your Election.</p>
+            <p>It is a diſpute among the Learned, whether Government be of Natural Right or Human Inſtitution. I remember the Learned <hi>Hooker</hi> in his <hi>Eccleſiaſtical Polity,</hi> ſays ſome Perſons have a natural Right to be Governours; that is, Men of great Vertue, Parts, and active Spirits, that are Mercurial: Others again are fitted for Sub<g ref="char:EOLhyphen"/>jection, being of duller tempers, and more ſluggiſh heavy Spirits; ſome are fit for Hands, others for Heads.</p>
+            <p>There was a Noble <hi>Roman,</hi> who was called <hi>Mecoenas,</hi> of whom <hi>Ta<g ref="char:EOLhyphen"/>citus</hi> tells us, He was never Conſul in <hi>Rome,</hi> nor Senator, but yet had a great authority both with Senate and People, as any of thoſe who had triumphed, becauſe of his excellent Parts and great Vertue.
+<pb n="10" facs="tcp:102073:6"/> It might have been ſaid of him, He loved our Nation, and hath built us a Synagogue; that is, he delighted to do them good; and they would all liſten to him upon all occaſions, tho' he never had any of the Badges of Authority conferred upon him.</p>
+            <p>It is taken care of by our Law, That that Coin which is current among us muſt not be of the baſer Mettals, but of one of the two <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ner ſpecies, Silver or Gold; it muſt have intrinſick value, as well as the Royal Impreſs. This Election of your Lordſhip, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Swearing you and all this Ceremony, gives but the ſtamp and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpreſſion, it was your own intrinſick value before that intitled <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou to the Office.</p>
+            <p>
+               <hi>My Lord,</hi> I ſhall ſay no more upon this Subject, but ſhall make all the haſt I can to conclude with that which is my duty, to give ſome Advice to your Lordſhip. Not but that you know your duty as well as I can teach it; but I muſt not neglect any part of my own.</p>
+            <p>
+               <hi>My Lord,</hi> I muſt adviſe your Lordſhip to take care, Firſt, of Re<g ref="char:EOLhyphen"/>ligion, and of the Service and Worſhip of God in the City, to keep it up in power, and in purity. If we would have God to be our God and our Friend in a time of Diſtreſs, we muſt carry it towards him Dutifully and Religiouſly, and then we ſhall have him always our Friend, our Father and Protector. Therefore, my Lord, be ſe<g ref="char:EOLhyphen"/>vere upon all open proſane perſons, Swearers, and others, and thoſe who are not afraid to vent their Atheiſtical looſe Opinions in Re<g ref="char:EOLhyphen"/>ligion. There are a great many profeſt Atheiſts amongſt us; and there are, I fear, a greater number that paſs under a new Name of Deiſts, that are of as pernicious Principles, and indeed, I fear, more dangerous; who throw off all revealed Religion whatſoever. Pray have a care of theſe, and ſuch as lead diſſolute and debauched lives; for if they be tolerated, they will prove great Snares and Miſ<g ref="char:EOLhyphen"/>chiefs to us all; and therefore I hope your Lordſhip will look care<g ref="char:EOLhyphen"/>fully after them.</p>
+            <p>In the next place, pray, My Lord, take care of the Peace, and Quiet of the City, upon which the Peace of the Nation ſo much depends. We have thoſe among us, and a great many, who, what with falſe Rumours and Reports, and other artifices and cunning Contrivances would diſturb the Peace of the Nation, and put
+<pb n="11" facs="tcp:102073:6"/> Frights and Fears into the Multitude. It would be a deſperate Remedy, that of Inſurrections and Tumults. Your Lorſhip will do well to have an Eye upon them, and prevent the beginnings. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are well joyned together in Holy writ; it is Almighty God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that can ſtill the the Raging of the Sea, and the Tumults of the People. Whatſoever may be the Pretences upon which they are firſt got together, we know not what they may turn about to when once they have a Head.</p>
+            <p>
+               <hi>My Lord,</hi> You will likewiſe do well to take care, that the Pro<g ref="char:EOLhyphen"/>ceedings of your Courts of Juſtice be clear and ſpeedy, and not too chargeable to the Suitor. And here I cannot but renew the men<g ref="char:EOLhyphen"/>tion of a thing that I have ſpoken of. I wiſh there were a good Law againſt ſelling of Offices in the City, and every where elſe; it doth corrupt the Fountain of Juſtice. I ſpeak not ſo much of your other Offices, but of thoſe in your Courts of Juſtice; it may prove the ruine of the City, and the deſtruction of the Government.</p>
+            <p>Pray, My Lord, take care of Charity; look after the poor, eſpeci<g ref="char:EOLhyphen"/>ally in this hard Winter, and now there is ſuch Scarcity of Corn, and the Dearneſs of Coals: Your Lorſhip in great Prudence and wiſdom, and of your great charity, will, I hope, think of it in time, and provide Stores for the poor People, that they may not be in extream Want as to Food or Fewel.</p>
+            <p>I beg of your Lordſhip to be vigilant over thoſe who meet to<g ref="char:EOLhyphen"/>gether, and cabal, and ſtudy how to diſturb our Peace. My Lord, they do now appear open-faced, and effect to be known as Enemies to the Government. They will not joyn with us in obſerving our Faſts, but take occaſion on thoſe days to feaſt and be jolly with one another; they purpoſely pride themſelves in paying double Taxes, becauſe thereby they are known to be againſt our preſent Settle<g ref="char:EOLhyphen"/>ment. Theſe muſt have a ſtrict Eye kept upon them.</p>
+            <p>I had much more to ſay upon that Point, but I have been too long already. I come now to the laſt part of this Work, that lies upon me, that is, to offer your Lordſhip ſome Conſiderations, that may encourage you in the chearful Diſcharge of your Office.</p>
+            <p>Among other things, you have the good Examples of your two laſt Predeceſſors, who indeed are ſo honourable and worthy per<g ref="char:EOLhyphen"/>ſons, that they may be counted among the Worthies of <hi>David;</hi>
+               <pb n="12" facs="tcp:102073:7" rendition="simple:additions"/> and, in particular, your immediate Predeceſſor that ſtands by you, who hath, during his time, well preſerved the peace of the City, and delivered it fairly into your Lordſhip's hands. Tho we <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<g ref="char:EOLhyphen"/>not ſay, he hath brought the Ship into Harbour, yet he hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly performed his part of the Voyage, notwithſtanding the Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh<g ref="char:EOLhyphen"/>neſs and Tempeſtuouſneſs of the Seaſon.</p>
+            <p>My Lord, You have the Example of the King himſelf to encourage you, who hath, with great Courage and Love to our Nation, expoſed his Perſon to the utmoſt Perils and Haz<g ref="char:EOLhyphen"/>ards for us. And it is not only his Vertue that may be an Encouragement, but it is evi<g ref="char:EOLhyphen"/>dent now to all the world, that there hath a Bleſſed Providence attended him in the greateſt Danger, to preſerve and protect him. In the buſinneſs of Fights, there is not a Bullet that flieth, but it is under the Government and Direction of Providence. And it is to a Mira<g ref="char:EOLhyphen"/>cle apperent, that the Hand of Providence is continualy over the Head of our King.</p>
+            <p>When <hi>Julius Caeſar</hi> was in great Diſtreſs, <hi>Pompey</hi> his Enemy having poſſeſſed himſelf of all the Power, and ſhut him up under great Difficulties, he puts himſelf into a Diſguiſe, with a purpoſe to make his eſcape, and embarqued himſelf in a ſm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Veſſel. When he was there, he could not prevail upon the Pilot to put to Sea, it was rough and tempeſtuous, like the Times we are now in; all the Arguments he could uſe would by n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means do with him: At length he was forced to throw off his Diſguiſe, and ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w himſelf, and tell him, <hi>Caeſarem &amp; Caeſaris fortunam v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bis:</hi> You have <hi>Caeſar</hi> abroad and <hi>Caeſar'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> good Fortune. That which he called Fortune I will call Providence: A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that Providence which preſerved the King, I make no doubt will protect you in your Great Station<g ref="char:punc">▪</g>
+            </p>
+            <p>My Lord, You have under your Care (and I am glad the Care is in ſuch hands) the Wor<g ref="char:EOLhyphen"/>ſhip &amp; Service of Almighty God and his Glory is engaged on your ſide. Our great Enemy, that I have ſpoken ſo much of before, moſt blaſphemouſly and impiouſly arrogates Glory to himſelf, which is God's Prerogative. <hi>My Glory,</hi> ſaith God, <hi>I will not give to another.</hi> But the French King ſnatches at it; he declares openly. That the <hi>Dutch</hi> are an Hinderance and Diminution to his Glory; and we may Expect to have the ſame ſaid of our ſelves.</p>
+            <p>My Lord, I ſay, you have this Glory of God on your ſide and you have the Prayers and Aſſiſtance of a great many that love God; a Great many in your City, I dare pronounce, more than in any place under Heaven. The Prophet complained, That he was left alone to ſerve God. But God anſwered him, that <hi>he had ſeven thouſand in</hi> Iſrael <hi>which never bowed the Knee to</hi> Baal. I may multiply that number of <hi>Seven</hi> as our bleſſed Saviour doth in the caſe of Forgiving our Brother, There are ſeventy times ſeven thouſand in this City, and about it, <hi>that never bowed the Knee to</hi> Baal, never had a hand in all the Miſcarriages and illegal Acti<g ref="char:EOLhyphen"/>ons of the late Times, would never own Popery and Arbitrary Power.</p>
+            <p>And I queſtion not there are a great many more in the reſt of the Kingdom: Theſe may be an encouragement to you. You have the Intereſt of all the Proteſtants in the world, and all that are concerned for their Civil Rights, and their Religious ones too on your ſide.</p>
+            <p>My Lord, I ſhall only conclude with one word: Your Entrance into this great Office is very hopeful; we all of us heartily wiſh your <hi>Exit</hi> and <hi>Concluſion</hi> may be as happy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Re-printed for <hi>M. Gunn</hi> at the Sign of the Bible in <hi>Eſſex-ſtreet</hi> near <hi>Eſſex-Gate.</hi> 1694.</p>
+            <pb facs="tcp:102073:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
